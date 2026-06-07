@@ -31,4 +31,4 @@ A lightweight, persistent task management system built with Python and MySQL. Th
 ## Prerequisites
 To run this application locally, you must have Python and MySQL installed on your machine. You will also need the official MySQL connector for Python:
 ```bash
-pip install mysql-connector-python ```
+pip install mysql-connector-python 
