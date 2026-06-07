@@ -13,9 +13,6 @@ A lightweight, persistent task management system built with Python and MySQL. Th
 * Database: MySQL
 * Dependencies:`mysql-connector-python`
 
-## Prerequisites
-To run this application locally, you must have Python and MySQL installed on your machine. You will also need the official MySQL connector for Python:
-
 ## Setup Instructions 
 * Clone repository:
    `git clone [https://github.com/arsihmukarram/TaskManager.git](https://github.com/arsihmukarram/TaskManager.git)
@@ -31,6 +28,7 @@ To run this application locally, you must have Python and MySQL installed on you
    Execute the script from your terminal. The application will automatically create the necessary tasks table within your MySQL database if it does not already exist.
     `python todo_list.py`
    
-
+## Prerequisites
+To run this application locally, you must have Python and MySQL installed on your machine. You will also need the official MySQL connector for Python:
 ```bash
-pip install mysql-connector-python
+pip install mysql-connector-python ```
